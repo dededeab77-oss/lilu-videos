@@ -1,7 +1,8 @@
 {
   "titulo": "Lolo y el eco de la montaña",
-  "voz": "es-AR-ElenaNeural",
-  "velocidad": "-10%",
+ "voz": "es-AR-ElenaNeural",
+  "velocidad": "-20%",
+  "tono": "+6Hz",
   "escenas": [
     {
       "texto": "Había una vez un pequeño león llamado Lolo, que vivía junto a su amiga Lilu la exploradora.",
