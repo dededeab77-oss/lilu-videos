@@ -89,6 +89,24 @@ def generar_voz(texto, voz, velocidad, tono, salida):
     asyncio.run(_tts(texto, voz, velocidad, tono, salida))
 
 
+def preparar_imagen(origen, destino):
+    """Deja la ilustración en 16:9 (1280x720) SIN estirarla.
+    Si ya es casi 16:9 recorta un poquito los bordes; si es muy distinta,
+    la centra y rellena los costados con el mismo fondo difuminado."""
+    im = Image.open(origen)
+    if im.mode != "RGB":
+        im = im.convert("RGB")
+    ratio = im.width / im.height
+    objetivo = W / H
+    if abs(ratio - objetivo) / objetivo <= 0.08:
+        cubrir = max(W / im.width, H / im.height)
+        g = im.resize((round(im.width * cubrir), round(im.height * cubrir)), Image.LANCZOS)
+        x, y = (g.width - W) // 2, (g.height - H) // 2
+        g.crop((x, y, x + W, y + H)).save(destino)
+    else:
+        encajar_imagen(origen, destino)
+
+
 def clip_escena(imagen, sub, audio, dur, salida):
     frames = int(dur * FPS) + 1
     filtro = (
@@ -222,7 +240,9 @@ def main():
         sub = tmp / f"sub_{i}.png"
         subtitulo_png(esc["texto"], sub)
         clip = tmp / f"clip_{i}.mp4"
-        clip_escena(img, sub, audio, dur, clip)
+        prep = tmp / f"img_{i}.png"
+        preparar_imagen(img, prep)
+        clip_escena(prep, sub, audio, dur, clip)
         clips.append(clip)
 
     lista = tmp / "lista.txt"
