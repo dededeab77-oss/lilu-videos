@@ -1,0 +1,39 @@
+name: Generar video
+
+on:
+  workflow_dispatch:
+    inputs:
+      story:
+        description: "Ruta del cuento (story.json)"
+        required: true
+        default: "stories/ejemplo/story.json"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar FFmpeg y fuentes
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar el video
+        run: python render.py "${{ github.event.inputs.story }}"
+
+      - name: Guardar el video
+        uses: actions/upload-artifact@v4
+        with:
+          name: video
+          path: salida/*.mp4
+          retention-days: 14
