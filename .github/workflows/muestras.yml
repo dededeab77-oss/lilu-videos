@@ -1,0 +1,20 @@
+name: Probar voces
+
+on:
+  workflow_dispatch:
+
+jobs:
+  muestras:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python muestras.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voces
+          path: salida/muestras/*.mp3
+          retention-days: 7
