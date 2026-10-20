@@ -1,0 +1,75 @@
+{
+  "titulo": "Lolo y las estrellas brillantes",
+  "voz": "es-AR-ElenaNeural",
+  "velocidad": "-20%",
+  "tono": "+6Hz",
+  "escenas": [
+    {
+      "texto": "La noche llegó al bosque y el cielo se llenó de lucecitas brillantes. Lilu y Lolo están sentados sobre el pasto suave. El aire está fresquito y huele a flores de azahar. Lolo mira hacia arriba con sus ojos muy grandes y redondos. ¡Qué hermosas son las estrellas de la noche! Parecen diamantes mágicos.",
+      "imagen": "escena1.png"
+    },
+    {
+      "texto": "Lolo está muy emocionado pero también un poco confundido. \"Lilu, ¿cuántas estrellas hay en el cielo?\", pregunta el leoncito con su voz finita. Lilu sonríe con dulzura y le acaricia su melena dorada. \"Hay muchísimas, Lolo. ¿Querés que aprendamos a contarlas juntos esta noche?\". Lolo salta de alegría y dice que sí con la cabeza.",
+      "imagen": "escena2.png"
+    },
+    {
+      "texto": "Lilu señala la primera estrella, que brilla solita cerca de la montaña. \"¡Mirá, Lolo! Ahí tenemos una estrella\", dice Lilu con calma. Es una estrella dorada y muy valiente. ¿Podés ayudar a Lolo a señalarla vos también con tu dedo? ¿Cuántas estrellas vemos ahora? Vamos a decir el número bien fuerte: ¡una!",
+      "imagen": "escena3.png",
+      "pausa_segundos": 5
+    },
+    {
+      "texto": "Muy cerquita de la primera, aparecen dos luces más. Lilu y Lolo cuentan despacito: \"dos y tres\". Las estrellas parecen estar bailando un vals en el cielo oscuro. Lolo mueve su colita de lado a lado al ritmo de las luces. El bosque está muy tranquilo y el silencio nos ayuda a concentrarnos mucho para contar.",
+      "imagen": "escena4.png"
+    },
+    {
+      "texto": "De repente, una luciérnaga pasa volando bajito. \"¡Miren, otra estrella que camina!\", grita Lolo entre risas. Lilu le explica que es una amiguita del bosque. La luciérnaga brilla \"titilar, titilar\". Ahora aparecen la estrella número cuatro y la número cinco. Las cinco estrellas forman una línea curva muy bonita sobre la copa de un gran árbol.",
+      "imagen": "escena5.png"
+    },
+    {
+      "texto": "Caminan un poquito hasta el pequeño estanque de agua cristalina. En el reflejo del agua, las estrellas se ven dobles. Lilu cuenta la seis y la siete. Lolo toca el agua con su patita y hace \"ploc, ploc\". Las estrellas del agua se mueven, pero las del cielo siguen ahí quietitas, esperándolos para seguir contando.",
+      "imagen": "escena6.png"
+    },
+    {
+      "texto": "Detrás de una nube de algodón, asoman dos estrellas más. Son la ocho y la nueve. Son pequeñas y parpadean rápido, como si nos estuvieran saludando. Lolo se siente muy valiente contando en la oscuridad. \"Ya casi llegamos a un número muy especial\", dice Lilu con un susurro lleno de misterio y mucha alegría.",
+      "imagen": "escena7.png"
+    },
+    {
+      "texto": "¡Llegamos al número diez! Lilu y Lolo saltan juntos. El cielo está cada vez más iluminado. ¿Me ayudás a contar todas estas estrellas que vemos ahora? Vamos a contar juntos desde el uno hasta el diez, bien despacito para no despertarlas. Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+      "imagen": "escena8.png",
+      "pausa_segundos": 6
+    },
+    {
+      "texto": "Lolo ahora quiere buscar estrellas más grandes. Encuentran la número once y la número doce cerca de la luna blanca. La luna es como una cuna de luz que cuida a las estrellas. Lolo bosteza un poquito, pero quiere seguir aprendiendo. \"Contar es como un juego de luces\", piensa el leoncito muy contento.",
+      "imagen": "escena9.png"
+    },
+    {
+      "texto": "Lilu descubre un grupo de estrellas que forman un dibujo. \"¡Mirá Lolo, parecen un caminito!\", dice señalando arriba. Son las estrellas trece, catorce y quince. ¿Podés ver el caminito de estrellas en el cielo? Seguí el dibujo con tu dedo de forma lenta. ¿Cuántas estrellas forman este caminito que acaba de encontrar Lilu?",
+      "imagen": "escena10.png",
+      "pausa_segundos": 5
+    },
+    {
+      "texto": "El viento sopla suavemente entre las hojas: \"shhh, shhh\". Las estrellas dieciséis y diecisiete aparecen entre las ramas de los sauces llorones. Lilu y Lolo se abrazan porque la noche es mágica y serena. El bosque está lleno de paz. Lolo se siente muy orgulloso de saber contar tantas luces brillantes con su amiga.",
+      "imagen": "escena11.png"
+    },
+    {
+      "texto": "¡Fushhh!, algo cruza el cielo velozmente. \"¡Una estrella que corre!\", exclama Lolo asombrado. Es una estrella fugaz muy especial. Lilu le cuenta que es la número dieciocho. Las estrellas diecinueve y veinte aparecen justo después, brillando con mucha fuerza para despedir el día y saludar a los sueños de todos los animales del bosque.",
+      "imagen": "escena12.png"
+    },
+    {
+      "texto": "Lolo se sienta en su mantita de colores. Ya sabe contar hasta veinte y se siente un león muy sabio. Lilu le trae un poquito de agua fresca. El cielo está lleno de puntitos de luz que parecen cuidarlos desde arriba. Todo está en calma, las flores cerraron sus pétalos para dormir hasta mañana.",
+      "imagen": "escena13.png"
+    },
+    {
+      "texto": "Lilu y Lolo miran por última vez el cielo infinito. Aprendieron que los números están en todos lados, hasta en lo más alto del universo. Lolo cierra sus ojitos un momento y se imagina saltando de estrella en estrella. Cada número fue un paso nuevo en su aventura nocturna por el bosque encantado.",
+      "imagen": "escena14.png"
+    },
+    {
+      "texto": "Es hora de descansar. Lilu acomoda la almohada de Lolo bajo el gran roble. El leoncito ronronea suavecito: \"rrr, rrr\". \"Buenas noches, estrellas\", susurra Lilu apagando su pequeña linterna de exploradora. El mundo se queda quietito, envuelto en el manto azul de la noche. Mañana habrá nuevas cosas para descubrir y contar.",
+      "imagen": "escena15.png"
+    },
+    {
+      "texto": "Lolo se queda dormido con una sonrisa. Soñará con nubes de azúcar y números brillantes que bailan. Lilu lo mira con amor y se acuesta a su lado. La aventura de hoy terminó de la forma más linda: aprendiendo juntos. Chau, chau, amiguitos, hasta la próxima exploración. No olviden contar sus propios sueños.",
+      "imagen": "escena16.png"
+    }
+  ]
+}
