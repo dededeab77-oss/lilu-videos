@@ -1,0 +1,76 @@
+{
+  "titulo": "Lolo aprende a contar estrellas - Cuento",
+  "voz": "es-AR-ElenaNeural",
+  "velocidad": "-20%",
+  "tono": "+6Hz",
+  "escenas": [
+    {
+      "texto": "¡Hola! Qué alegría verte hoy. Mirá hacia arriba, el sol ya se fue a dormir y el cielo se puso de color azul oscuro. ¿Viste que algo empezó a brillar allá arriba? Es un misterio muy brillante. Lilu y Lolo están esperando que aparezca la primera amiga de la noche. ¿Qué será?",
+      "imagen": "escena1.png"
+    },
+    {
+      "texto": "¡Es una estrella! Lilu sonríe y levanta un dedo. Una estrella brilla solita en el cielo. Lolo la mira con sus ojos grandes y está muy sorprendido. Es dorada y parece que nos saluda. ¿Te animás a decir 'uno' con Lilu? Es el comienzo de nuestra cuenta de hoy.",
+      "imagen": "escena2.png"
+    },
+    {
+      "texto": "¡Muy bien, uno! Pero mirá, al lado de la primera, apareció otra amiguita más. Ahora ya no está sola. Lolo se pone feliz y mueve su colita. Son dos luces pequeñas que decoran la noche. ¿Podés encontrar la segunda estrella en el cielo? Señalala con tu dedo ahora mismo.",
+      "imagen": "escena3.png",
+      "pausa_segundos": 5
+    },
+    {
+      "texto": "¡Ahí está! Ya tenemos dos. Pero esperá, cerca de aquel árbol alto, acaba de asomar la número tres. Lilu se ríe porque el cielo se está llenando de puntitos de luz. Contá con nosotros: una, dos y tres. ¡Qué lindo es el cielo de noche! ¿Verdad que brillan mucho?",
+      "imagen": "escena4.png"
+    },
+    {
+      "texto": "¡Mirá, Lolo! Allá arriba aparecieron dos más, muy juntitas. Son la cuatro y la cinco. Lolo salta de alegría porque ahora el cielo parece un dibujo lleno de magia. El aire está fresquito y las estrellas nos cuidan desde lo alto. Vamos a contar de vuelta: una, dos, tres, cuatro y cinco.",
+      "imagen": "escena5.png"
+    },
+    {
+      "texto": "Lolo busca y busca por todo el cielo. ¡Encontró otra! Es la estrella número seis. Está escondida cerca de una nube blanca y suave. A Lolo le da un poquito de timidez, pero la estrella parpadea para saludarlo. ¿Podés ver vos dónde está la estrella número seis? Buscala bien.",
+      "imagen": "escena6.png",
+      "pausa_segundos": 5
+    },
+    {
+      "texto": "¡Excelente, la encontraste! Seis estrellas. Y de repente, cerca de la gran luna redonda, aparece la número siete. La luna es como una mamá grande que cuida a las estrellitas. Lilu acaricia a Lolo para que no tenga miedo. La noche es hermosa y está llena de luces amigas para nosotros.",
+      "imagen": "escena7.png"
+    },
+    {
+      "texto": "¡Ocho! Gritó Lolo muy entusiasmado. Señaló una estrella que brilla allá lejos, arriba de la colina. Ya falta muy poco para completar nuestro camino de luces. Las estrellas parecen diamantes en el cielo azul. Contemos juntos otra vez: seis, siete y ocho. ¡Cuánta luz hay esta noche en el campo!",
+      "imagen": "escena8.png"
+    },
+    {
+      "texto": "Lilu ve una estrella muy pequeñita que casi no se nota. ¡Es la número nueve! Es tímida pero brilla con mucha fuerza. Lolo se acerca a Lilu y le da la mano. Contar estrellas es muy divertido, pero también nos da mucha calma. ¿Cuántas estrellas nos faltan para llegar a diez?",
+      "imagen": "escena9.png",
+      "pausa_segundos": 6
+    },
+    {
+      "texto": "¡Falta solo una! Y mirá, allá arriba, en lo más alto del cielo, apareció la estrella más grande de todas. ¡Es la número diez! Lo logramos, completamos nuestra cuenta. El cielo está totalmente iluminado para nosotros. Lolo está tan feliz que quiere bailar bajo la luz de las diez estrellas.",
+      "imagen": "escena10.png"
+    },
+    {
+      "texto": "Ahora que están todas, vamos a repasarlas para no olvidarnos. Lolo usa su patita para señalar. Ayudalo vos también desde casa. Empecemos: una, dos, tres, cuatro, cinco... ¡qué bien lo hacés! Sigamos: seis, siete, ocho, nueve y diez. ¡Un aplauso para este gran explorador que sabe contar tan bien!",
+      "imagen": "escena11.png"
+    },
+    {
+      "texto": "Lolo bosteza un poquito. Contar tantas estrellas le dio sueño. El cielo está tan tranquilo que dan ganas de descansar. Lilu le pone una manta abrigadita a su amigo. Las diez estrellas siguen ahí, brillando bajito, como si nos cantaran una canción de cuna para dormir muy felices.",
+      "imagen": "escena12.png"
+    },
+    {
+      "texto": "Mirá cómo parpadean. Cada estrella es un sueño lindo que nos espera. Lilu también tiene un poquito de sueño. Es hora de cerrar los ojos y agradecer por este día tan especial. Aprendimos a contar y conocimos a diez nuevas amigas en el cielo. ¿Te acordás cuál era tu estrella favorita?",
+      "imagen": "escena13.png",
+      "pausa_segundos": 5
+    },
+    {
+      "texto": "¡Qué buena elección! Todas son hermosas. Lolo ya se quedó dormido soñando con nubes de algodón y estrellas de queso. Lilu le da un beso en la frente. La naturaleza nos regala estas noches mágicas para que siempre estemos acompañados. Qué suerte tener amigos así para explorar el mundo.",
+      "imagen": "escena14.png"
+    },
+    {
+      "texto": "Mañana será un nuevo día para jugar, pero ahora es momento de descansar. El bosque está en silencio, solo se escucha el viento suave entre las hojas. Shhh... vamos a dormir nosotros también. No te olvides que siempre podés mirar al cielo y contar tus propias estrellas antes de soñar.",
+      "imagen": "escena15.png"
+    },
+    {
+      "texto": "Gracias por acompañar a Lolo en esta aventura de números y luces. Me encantó contar con vos. Descansá mucho y portate muy bien. Nos vemos muy pronto para seguir descubriendo cosas maravillosas. Hasta la próxima exploración, amiguitos.",
+      "imagen": "escena16.png"
+    }
+  ]
+}
