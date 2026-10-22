@@ -1,0 +1,72 @@
+{
+  "titulo": "Cuento para aprender: Lolo y los colores del arcoíris",
+  "voz": "es-AR-ElenaNeural",
+  "velocidad": "-20%",
+  "tono": "+6Hz",
+  "escenas": [
+    {
+      "texto": "Lilu y Lolo están en el jardín. Recién dejó de llover y el sol asoma entre las nubes. \"¡Mirá, Lolo!\", dice Lilu señalando hacia arriba. Un arco muy grande cruza el cielo. Tiene colores brillantes y parece un tobogán mágico. ¿Querés descubrir con ellos de dónde vienen esos colores? Mirá con atención el cielo despejado.",
+      "imagen": "escena1.png"
+    },
+    {
+      "texto": "Lolo corre por el pasto húmedo. \"¡Encontré el primer color!\", grita el leoncito. En el suelo hay una manzana muy redonda y roja. Es de un color fuerte, como el fuego. Es el rojo, el primer color del arcoíris. Lilu se acerca y acaricia la fruta con cuidado. ¿Sentís el perfume dulce de la manzana roja?",
+      "imagen": "escena2.png"
+    },
+    {
+      "texto": "De pronto, una mariposa pasa volando cerca de la nariz de Lolo. Sus alas son de un tono cálido, parecido a una mandarina o a una zanahoria. \"¡Es el color naranja!\", dice Lilu riendo. La mariposa baila entre las gotas de agua que quedan en las hojas. El naranja es alegre y brilla mucho bajo el sol.",
+      "imagen": "escena3.png"
+    },
+    {
+      "texto": "Lolo se queda mirando sus propias patitas y su melena dorada. \"¡Yo también soy de un color del arcoíris!\", exclama saltando de felicidad. Lilu asiente y señala una flor grande. Es de color amarillo, igual que el sol y igual que el pelaje de Lolo. El amarillo nos da calorcito en la panza y nos hace sonreír.",
+      "imagen": "escena4.png"
+    },
+    {
+      "texto": "Lilu y Lolo llegan a un cantero lleno de flores que se mueven con el viento. Hay muchas margaritas brillantes esperando que el sol las seque. Lolo quiere saber si vos estás prestando atención a los detalles del jardín. Mirá bien la imagen y ayudá a Lolo: ¿Cuántas flores amarillas ves en el suelo?",
+      "imagen": "escena5.png"
+    },
+    {
+      "texto": "¡Muy bien, viste las tres flores amarillas! Ahora, Lilu camina sobre la alfombra de pasto que rodea los árboles del bosque. Todo brilla con un tono esmeralda muy suave. Es el color verde, el color de las hojas y de los pinos. El verde nos ayuda a respirar profundo y a sentirnos tranquilos en la naturaleza.",
+      "imagen": "escena6.png"
+    },
+    {
+      "texto": "Lolo levanta la cabeza y mira un charquito de agua que se formó en el camino de tierra. El agua refleja el cielo que ahora está muy limpio. \"¡Es color azul!\", dice Lilu tocando el agua con un dedito. El azul es fresco como el mar y tranquilo como una tarde de descanso junto al río.",
+      "imagen": "escena7.png"
+    },
+    {
+      "texto": "Cerca de unas piedras grises, Lilu encuentra unas flores pequeñitas y muy perfumadas. Tienen un color oscuro y elegante, como las uvas dulces. \"Este es el color violeta, el último del arcoíris\", explica Lilu con suavidad. Lolo acerca su nariz para oler la flor violeta. ¡Qué rico aroma tiene el jardín hoy!",
+      "imagen": "escena8.png"
+    },
+    {
+      "texto": "El arcoíris sigue brillando sobre la montaña de forma increíble. Lilu y Lolo se sientan en el pasto para admirar este regalo de la naturaleza. Es un momento perfecto para contar todos los colores que aprendimos hoy, desde el rojo hasta el violeta. ¿Te animás a decir cuántos colores tiene el arcoíris en total?",
+      "imagen": "escena9.png"
+    },
+    {
+      "texto": "¡Exacto, son siete colores hermosos! Rojo, naranja, amarillo, verde, azul, añil y violeta. Lilu explica que el arcoíris aparece cuando el sol brilla a través de las gotitas de lluvia. Es como si el cielo se pintara con un pincel de luz. Lolo aplaude con sus patitas, está muy feliz de aprender algo nuevo.",
+      "imagen": "escena10.png"
+    },
+    {
+      "texto": "Lolo empieza a dar vueltas en círculos, tratando de atrapar su propia cola. Está tan contento que se siente liviano como una pluma. \"¡Me encantan los colores!\", grita el leoncito. Lilu lo abraza fuerte porque sabe que descubrir el mundo es mucho más divertido cuando lo hacés con un amigo querido y curioso como Lolo.",
+      "imagen": "escena11.png"
+    },
+    {
+      "texto": "Los dos amigos deciden caminar hacia donde termina el arcoíris, cerca de un gran árbol de manzanas. El sol empieza a bajar y la luz se vuelve más suave, de color miel. Aunque el arcoíris se empieza a borrar de a poquito, ellos saben que siempre vuelve. Es el ritmo mágico de nuestra tierra.",
+      "imagen": "escena12.png"
+    },
+    {
+      "texto": "El día fue largo y lleno de sorpresas coloridas en el jardín. Lilu te mira con una sonrisa y quiere saber qué color te gustó más de todos los que vimos hoy. ¿Fue el rojo de la manzana, el verde del pasto o quizás el azul? Contale a Lilu, ¿cuál es tu color favorito?",
+      "imagen": "escena13.png"
+    },
+    {
+      "texto": "¡Qué lindo color elegiste! A Lolo también le gusta mucho ese. Ahora el sol se esconde detrás de las montañas y el cielo se pone de color rosa y naranja suave. Es hora de volver a casa a descansar. Lilu guarda su lupa en la mochila y Lolo bosteza con muchas ganas. ¡Qué sueño!",
+      "imagen": "escena14.png"
+    },
+    {
+      "texto": "Caminan despacio bajo las primeras estrellas que asoman tímidas en el cielo. El jardín está en silencio y solo se escucha el sonido de los grillos. Cri-cri, cri-cri. Lolo se siente seguro y feliz. Hoy aprendieron que el mundo está lleno de colores maravillosos que nos regala la naturaleza si sabemos mirar.",
+      "imagen": "escena15.png"
+    },
+    {
+      "texto": "Lilu y Lolo se despiden desde la puerta de su casita. Mañana habrá una nueva aventura para explorar, pero por ahora es momento de cerrar los ojos y soñar con puentes de siete colores. Gracias por acompañarnos en este día tan especial. Hasta la próxima exploración, amiguitos.",
+      "imagen": "escena16.png"
+    }
+  ]
+}
