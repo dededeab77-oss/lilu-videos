@@ -1,0 +1,76 @@
+{
+  "titulo": "Cuento para aprender: Lolo y los animales de la granja",
+  "voz": "es-AR-ElenaNeural",
+  "velocidad": "-20%",
+  "tono": "+6Hz",
+  "escenas": [
+    {
+      "texto": "Hoy es un día de sol radiante. Lilu y Lolo caminan muy contentos por un sendero de tierra. Lolo mueve su colita dorada de un lado a otro. De repente, escuchan un sonido muy fuerte que viene de atrás de una cerca de madera. Lilu se detiene, se pone la mano en la frente y mira con mucha atención.",
+      "imagen": "escena1.png"
+    },
+    {
+      "texto": "Lolo tiene un poquito de miedo y se esconde detrás de Lilu. Mirá, algo se mueve entre la paja seca de la granja. Se escuchan unos pasitos rápidos y un sonido muy cortito. Lilu se acerca despacio, paso a paso, para no asustar a quien sea que esté ahí escondido. ¿Qué será ese misterio que hace tanto ruido?",
+      "imagen": "escena2.png",
+      "pausa_segundos": 5
+    },
+    {
+      "texto": "¡Es una gallina! La gallina sale de su nido y saluda con un fuerte ¡cocorocó! Lolo se ríe mucho cuando la ve saltar. La gallina tiene plumas de color marrón y una cresta roja muy bonita. Ella camina con orgullo por el patio, buscando granitos de maíz para desayunar con mucha energía y alegría.",
+      "imagen": "escena3.png"
+    },
+    {
+      "texto": "Pero la gallina no está sola. Detrás de ella aparecen unos animalitos chiquitos, redondos y muy amarillos. Son sus hijos, los pollitos, que hacen pío pío sin parar. Son tan suaves que parecen bolitas de algodón caminando por el suelo. Mirá bien a los pollitos que siguen a su mamá. ¿Podés contar cuántos pollitos amarillos hay?",
+      "imagen": "escena4.png",
+      "pausa_segundos": 5
+    },
+    {
+      "texto": "¡Muy bien! Hay cinco pollitos amarillos siguiendo a la mamá gallina. Lilu y Lolo siguen caminando y llegan hasta un corral muy grande. Ahí encuentran a una señora muy tranquila que mastica pasto sin apuro. Es la vaca, que tiene manchas negras en su cuerpo blanco. Ella nos saluda con un sonido muy largo: ¡muuu!",
+      "imagen": "escena5.png"
+    },
+    {
+      "texto": "La vaca mueve su cola para espantar a las moscas y mira a Lolo con sus ojos enormes. Lilu le acaricia el lomo con mucha suavidad. La vaca es muy buena y nos da leche rica para crecer fuertes. Lolo intenta imitar el sonido de la vaca y hace un ¡muuu! muy bajito que hace reír a Lilu.",
+      "imagen": "escena6.png"
+    },
+    {
+      "texto": "Cerca de la vaca hay un charco de lodo muy divertido. ¿Viste quién está ahí? ¡Es el chanchito! Al chanchito le encanta revolcarse en el barro para estar fresquito. Es de color rosado y tiene una cola enrulada muy graciosa. Él nos saluda moviendo su nariz mientras hace un sonido divertido: ¡oinc, oinc, oinc!",
+      "imagen": "escena7.png"
+    },
+    {
+      "texto": "Lolo quiere jugar con el chanchito, pero no quiere ensuciarse su pelaje dorado. Lilu le explica que a los chanchitos les gusta mucho el lodo porque así cuidan su piel del sol. El chanchito sale del charco y sacude sus orejas, haciendo que Lilu y Lolo den un saltito hacia atrás para no quedar todos manchados.",
+      "imagen": "escena8.png"
+    },
+    {
+      "texto": "Ahora llegamos a una zona de la granja con mucho pasto verde y tierno. Allí está la oveja. Ella tiene mucha lana, parece que lleva puesto un abrigo muy abrigado. La oveja camina despacio y nos saluda con un sonido que suena así: ¡beeee! Lolo se acerca y toca su lana, ¡es muy esponjosa! ¿De qué color es la lana de esta ovejita?",
+      "imagen": "escena9.png",
+      "pausa_segundos": 6
+    },
+    {
+      "texto": "¡Exacto! La lana de la ovejita es de color blanco, como una nube. Lilu y Lolo saludan a la oveja y siguen su camino. De pronto, escuchan un relincho fuerte y elegante. Es el caballo, que corre veloz por el campo. El caballo tiene patas largas y una crin que vuela con el viento mientras galopa con mucha fuerza.",
+      "imagen": "escena10.png"
+    },
+    {
+      "texto": "El caballo se detiene cerca de Lilu para que ella pueda peinar su crin. Lilu usa sus manos con mucho cuidado. Lolo mira con asombro lo alto que es el caballo. Los caballos son animales muy inteligentes y amigos de los humanos. Lilu le da una manzana roja como premio y el caballo se la come muy contento.",
+      "imagen": "escena11.png"
+    },
+    {
+      "texto": "Al lado del campo hay una laguna pequeña con agua muy clarita. Lilu y Lolo ven a unos animales nadando muy tranquilos. Tienen picos naranjas y patas que parecen remos. Son los patos. Ellos nadan en fila y cuando salen del agua se sacuden las plumas haciendo un sonido muy simpático que suena así: ¡cuac, cuac, cuac!",
+      "imagen": "escena12.png"
+    },
+    {
+      "texto": "Los patitos se divierten mucho en el agua fresca. Lolo los mira y mueve su colita siguiendo el ritmo de los patos. Lilu se pone muy feliz al verlos tan tranquilos. Mirá con mucha atención el agua de la laguna donde están nadando estos amigos. ¿Podés decirme cuántos patos ves nadando en el agua ahora?",
+      "imagen": "escena13.png",
+      "pausa_segundos": 4
+    },
+    {
+      "texto": "¡Excelente! Hay tres patos nadando juntos. Por último, Lilu y Lolo visitan a la cabra. La cabra es muy traviesa y le gusta saltar arriba de las piedras grandes. Ella tiene unos cuernos pequeños y hace un sonido muy gracioso: ¡meee! Lilu se ríe al ver cómo la cabra mantiene el equilibrio sin caerse nunca de las rocas.",
+      "imagen": "escena14.png"
+    },
+    {
+      "texto": "El sol ya se está poniendo y el cielo se vuelve de color naranja y violeta. Todos los animales de la granja se preparan para ir a dormir. La gallina vuelve a su nido con los pollitos, la vaca se acuesta en el pasto y los patos descansan a la orilla de la laguna. El silencio empieza a llegar a la granja.",
+      "imagen": "escena15.png"
+    },
+    {
+      "texto": "Lilu y Lolo están cansados de tanto explorar y aprender. Se dan un abrazo muy fuerte y se despiden de sus nuevos amigos. Fue un día hermoso lleno de sonidos y colores. Lolo bosteza y cierra sus ojitos, listo para soñar con pollitos y caballos. Hasta la próxima exploración, amiguitos.",
+      "imagen": "escena16.png"
+    }
+  ]
+}
